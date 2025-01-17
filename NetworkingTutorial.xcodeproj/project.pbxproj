@@ -32,8 +32,8 @@
 		F8A122312D3A3A1900294A15 = {
 			isa = PBXGroup;
 			children = (
-				F8A1223C2D3A3A1900294A15 /* NetworkingTutorial */,
 				F8A1223B2D3A3A1900294A15 /* Products */,
+				F8A1223C2D3A3A1900294A15 /* NetworkingTutorial */,
 			);
 			sourceTree = "<group>";
 		};
